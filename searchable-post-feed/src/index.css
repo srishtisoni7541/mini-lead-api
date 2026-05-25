@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  /* Yeh add karo */
+  input, textarea, select {
+    background-color: #ffffff;
+    color: #1c1917;
+  }
+}
