@@ -32,7 +32,7 @@ I also kept the architecture intentionally simple to avoid over-engineering for 
 
 ## AI Usage
 
-I used AI tools for:
+I used **Claude Sonnet 4.6** (free tier, claude.ai) for:
 
 * Designing and styling the UI (light theme, Tailwind class decisions, layout, spacing)
 * Implementing the `useDebounce` custom hook
