@@ -38,11 +38,11 @@ I also kept the architecture intentionally simple to avoid over-engineering for 
 
 ## AI Usage
 
-I used AI tools for:
+I used the free version of ChatGPT for:
 
 * Brainstorming API structure
-* writing the code of custom middlewares and seed files
-* Reviewing schema decisions
+* Writing parts of custom middlewares and seed files
+* Reviewing schema design decisions
 * Improving README/documentation wording
 
-All implementation details, debugging, and integration were completed manually.
+All implementation details, debugging, integration, and final development decisions were completed manually.
